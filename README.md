@@ -3,7 +3,7 @@
 
 - 🔭 Trabalhando com back-end, desenvolvendo softwares de segurança e também almejando o desenvolvimento de games 🌌
 - 🌱 Atualmente aprendendo Python 🐍...
-- ⚡ Fun fact: Nossos avós nunca imaginariam que um dia teriamos tanto acesso ao conhecimento algum dia 🐱‍🚀 📚 ⏳ 🧬
+- ⚡ Fun fact: Nossos avós nunca imaginariam que um dia teriamos tanto acesso ao conhecimento algum dia 📚 ⏳ 🧬🐱‍🚀
 <div align="left">
   <a href="https://github.com/HectorVictor">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=HectorViktor&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>

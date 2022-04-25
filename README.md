@@ -1,7 +1,7 @@
 ### Olá, me chamo Rafael Hector! 👋
 🐱‍👤 Sou um Software Developer que ama tecnologia, busco realizar meus sonhos com ela, e quem sabe, mudar o mundo algum dia. 🤯
 
-- 🔭 Trabalhando com back-end e desenvolvendo games 🌌
+- 🔭 Trabalhando com back-end, desenvolvendo softwares de segurança e também almejando o desenvolvimento de games 🌌
 - 🌱 Atualmente aprendendo Python 🐍...
 - ⚡ Fun fact: Nossos avós nunca imaginariam que um dia teriamos tanto à acesso ao conhecimento 🐱‍🚀
 <div align="left">

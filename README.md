@@ -1,10 +1,10 @@
 ### Olá, me chamo Rafael Hector! 👋
 🐱‍👤 Quero ser um Software Developer, busco ajudar o meu próximo, e algum dia, mudar o mundo. 🤯
 
-- 🔭 Trabalhando com back-end, desenvolvendo softwares de segurança e também almejando o desenvolvimento de games 🌌
+- 🔭 Trabalhando com: back-end, desenvolvendo softwares de segurança e também almejando o desenvolvimento de games. 🌌
 - 🌱 Atualmente aprendendo Python 🐍...
-- ⚡ Fun fact: Nossos avós nunca imaginariam que um dia teriamos tanto acesso ao conhecimento algum dia 📚 ⏳ 🧬🐱‍🚀
-- 🎯 Meta pessoal: Colocar ao menos um projeto por dia aqui no GitHub 🐱‍💻🪐
+- ⚡ Fun fact: Muitas pessoas viveram e morreram para nos dar a liberdade que temos hoje, usemos com sabedoria. 📚 ⏳😉👍
+- 🎯 Meta pessoal: Colocar ao menos um projeto por dia aqui no GitHub. 🐱‍💻🪐
 <div align="left">
   <a href="https://github.com/HectorVictor">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=HectorViktor&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>

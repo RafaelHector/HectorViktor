@@ -1,5 +1,5 @@
 ### Olá, me chamo Rafael Hector! 👋
-🐱‍👤 Quero ser um Software Developer, busco ajudar o meu próximo, e algum dia, mudar o mundo. 🤯
+🐱‍👤 Software Developer, busco ajudar o meu próximo, e algum dia, mudar o mundo. 🤯
 
 - 🔭 Trabalhando com: back-end, desenvolvendo softwares de segurança e também almejando o desenvolvimento de games. 🌌
 - 🌱 Atualmente aprendendo Python 🐍...

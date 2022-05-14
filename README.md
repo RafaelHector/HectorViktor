@@ -3,7 +3,7 @@
 
 - 🔭 Trabalhando com: back-end, desenvolvendo softwares de segurança e também almejando o desenvolvimento de games. 🌌
 - 🌱 Atualmente aprendendo sobre Python (Data science) e Bug Bounty 🐍...
-- ⚡ Fun fact: Muitas pessoas viveram e morreram para nos dar a liberdade que temos hoje, usemos com sabedoria. 📚 ⏳😉👍
+- ⚡ Fun fact: Muitas pessoas deram a vida para nos dar a liberdade que temos hoje, usemos a com sabedoria. 📚 ⏳😉👍
 - 🎯 Meta pessoal: Colocar ao menos um projeto por dia aqui no GitHub. 🐱‍💻🪐
 <div align="left">
   <a href="https://github.com/HectorVictor">

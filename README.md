@@ -8,7 +8,7 @@
 <div align="left">
   <a href="https://github.com/HectorVictor">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=HectorViktor&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorViktor&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelHector&layout=compact&langs_count=7&theme=gruvbox"/>
   <img align="right" alt="GifdoGato" height="200" style="border-radius:100px;" src="https://c.tenor.com/tJi0yy2w5m4AAAAd/hoang2910-boss.gif?width=676&height=676">
 </div>
   

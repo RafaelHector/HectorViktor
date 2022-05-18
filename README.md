@@ -1,8 +1,8 @@
 ### Olá, me chamo Rafael Hector! 👋
-🐱‍👤 Software Developer, busco ajudar o mundo em que vivemos.🌎🤝
+🐱‍👤 Software Developer, desejo aprender, desenvolver e ajudar o mundo em que vivemos. 🌎🤝
 
 - 🔭 Trabalhando com: back-end, desenvolvendo softwares de segurança e também almejando o desenvolvimento de games. 🌌
-- 🌱 Atualmente aprendendo sobre Python (Data science) e Bug Bounty 🐍...
+- 🌱 Atualmente aprendendo sobre Python (Data science & Machine Learning) 🐍...
 - ⚡ Fun fact: Muitas pessoas deram a vida para nos dar a liberdade que temos hoje, usemos a com sabedoria. 📚 ⏳😉👍
 - 🎯 Meta pessoal: Colocar ao menos um projeto por dia aqui no GitHub. 🐱‍💻🪐
 <div align="left">

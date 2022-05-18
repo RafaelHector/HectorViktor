@@ -4,7 +4,7 @@
 - 🔭 Trabalhando com: back-end, desenvolvendo softwares de segurança e também almejando o desenvolvimento de games. 🌌
 - 🌱 Atualmente aprendendo sobre Python (Data science & Machine Learning) 🐍...
 - ⚡ Fun fact: Muitas pessoas deram a vida para nos dar a liberdade que temos hoje, usemos a com sabedoria. 📚 ⏳😉👍
-- 🎯 Meta pessoal: Colocar ao menos um projeto por dia aqui no GitHub. 🐱‍💻🪐
+- 🎯 Meta pessoal: Compartilhar ao menos um projeto por dia aqui no GitHub. 🐱‍💻🪐
 <div align="left">
   <a href="https://github.com/HectorVictor">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=HectorViktor&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
